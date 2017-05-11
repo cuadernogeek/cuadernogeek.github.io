@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Comenzando en Jekyll!"
-date:   2017-05-09 20:23:47 +0200
+title:  "Continuando"
+date:   2017-05-11 17:40:47 +0200
 categories: jekyll update
 ---
 
-Comenzando a experimentar con Jekyll por culpa de [ugeekpodcast] y sus compinches.
-
-`Hola Mundo!`
+Otro post
 
 
 
